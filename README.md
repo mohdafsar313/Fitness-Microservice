@@ -46,7 +46,6 @@ fitness_microservices/
 
 ### Steps
 
-```bash
 # Clone the repo
 git clone https://github.com/mohdafsar313/Fitness-Microservice.git
 cd Fitness-Microservice
