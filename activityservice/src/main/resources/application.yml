@@ -1,0 +1,23 @@
+spring:
+
+  profiles:
+    active: dev
+  application:
+   name: activity-service
+  main:
+    allow-bean-definition-overriding: true
+
+
+  data:
+    mongodb:
+      uri: mongodb://127.0.0.1:27017/fitnessactivity
+      database: fitnessactivity
+server:
+  port: 8083
+logging:
+  level:
+    org.springframework: INFO
+    org.springframework.web: DEBUG
+
+
+
