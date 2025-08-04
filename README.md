@@ -75,17 +75,3 @@ Developed by Mohammed Afsar K A
 
 📌 License
 This project is open-source and available under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-Would you like me to:
-
-- Customize it further for deployed URLs or Swagger docs?
-- Add badges (build status, license, etc.)?
-- Generate a `docker-compose.yml`?
-
-Let me know how deep you want to go.
